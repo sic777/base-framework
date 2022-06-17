@@ -57,7 +57,7 @@
 		<spring-boot.version>1.5.21.RELEASE</spring-boot.version>
 		<dubbo.version>2.7.0</dubbo.version>
 		<curator-framework.version>2.12.0</curator-framework.version>
-		<fastjson.version>1.2.31</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<httpclient.version>4.5.3</httpclient.version>
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
 		<netty.version>4.1.1.Final</netty.version>
