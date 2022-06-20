@@ -50,7 +50,7 @@
 		<mongo.version>3.4.2</mongo.version>
 		<jedis.version>2.9.0</jedis.version>
 		<druid.version>1.0.21</druid.version>
-		<mysql.version>5.1.38</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<spring-boot-mybatis.version>1.3.2</spring-boot-mybatis.version>
 		<spring.version>4.3.18.RELEASE</spring.version>
 		<aspectjweaver.version>1.9.3</aspectjweaver.version>
